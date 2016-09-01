@@ -93,8 +93,6 @@ do local _ = {
     "setexpire",
     "you",
     "sinfo",
-    "note",
-    "wlc",
     "wlink"
   },
   help_text = "",
@@ -105,22 +103,11 @@ do local _ = {
   },
   sudo_users = {
     190385827,
-    163509666,
-    230029967,
-    123705997,
-    257997956
+    0,
+    0,
+    0,
+    0
   }
 }
 return _
 end
---[[
-🔱➖➖➖➖➖➖➖➖➖➖➖➖➖➖🔱
-#:[[
-#For info file
-#Developer :  
-#JOker < @lua_3 > 
-#JoZef < @jozef3 >
-#our channel: @Smart_Team
-#File type : (info)
-🔱➖➖➖➖➖➖➖➖➖➖➖➖➖➖🔱
-—]]
