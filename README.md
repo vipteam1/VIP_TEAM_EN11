@@ -1,41 +1,43 @@
-قـــــنأْةَ ألسـورسَ ✋🏿👇🏻Source channel
-# [ASD_KARBALA](https://telegram.me/S94IQ)
+#[!#/]جـميع الاوامر انكلش وتستعمل بلشارات هي
 
 
+#الاوامر تستعمل بلشاره او بدون اشاره يعني بطريقتين يشتغل الاوامر
+#Chaneel Sors
+# [Smart](https://telegram.me/Smart_team)
 *******************************************************************
-```sh
 
 # Let's install the bot.
-افتـح ترمنـــأل وخلي 👇🏿 Open Terminal and vinegary
+افتـح ترمنـــأل وخلي 👇🏿 
 
 sudo apt-get update 
 
-ورهأَ خلي 👇🏿 And vinegary
+ورهأَ خلي 👇🏿 
 
 redis-server
-تركه مفتوح✋🏿  Leave it open Terminal
 
-وفتح ترمنال ثاني وخلي 👇🏿 Open Terminal and second vinegary
+تركه مفتوح✋🏿
+
+وفتح ترمنال ثاني وخلي 👇🏿 
 ************************************************************
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes
 ************************************************************
 ورأهأَ خلي👇🏿
 **************
-git clone https://github.com/SAJJAD94/ASD_KARBALA.git
+git clone https://github.com/team-smart/smart_team.git
 *****************************************************
-ورهأ خلي 👇🏿 And vinegary
+ورهأ خلي 👇🏿
 **************************
-cd ASD_KARBALA
+cd smart_team
 **************************
-ورهأَ خلي👇🏿 And vinegary
+ورهأَ خلي👇🏿 
 **************************
 chmod +x launch.sh
 **************************
-ورهأَ خلي👇🏿 And vinegary
+ورهأَ خلي👇🏿
 **************************
 ./launch.sh install
 **************************
-ورهأَ خلي👇🏿 And vinegary
+ورهأَ خلي👇🏿 
 **************************
 ./launch.sh 
 **************************
@@ -44,53 +46,42 @@ chmod +x launch.sh
 
 # Enter a phone number & confirmation code.
 Congratulations, you better bot
-```
+__________________________________________________________
+__________________________________________________________
+__________________________________________________________
 ### One command
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 
-لتنصيب البوـب بكوَدَ واحد فقط َ ✋🏿😘👇🏿 To install one code
+لتنصيب البوـب بكوَدَ واحد فقط َ ✋🏿😘👇🏿 
 
-فتح ترمنال وخلي 👇🏿 Open Terminal and vinegary
+فتح ترمنال وخلي 👇🏿 
 *******************
 sudo apt-get update 
 *******************
-ورهأَ خلي 👇🏿 And vinegary
+ورهأَ خلي 👇🏿 
 *******************
 redis-server
 *******************
-تركه مفتوح✋🏿 Leave it open Terminal
+تركه مفتوح✋🏿 
+وفتح ترمنال ثاني وخلي 👇🏿 
 
-وفتح ترمنال ثاني وخلي 👇🏿 Open Terminal and second vinegary
-```sh
-
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/SAJJAD94/ASD_KARBALA.git && cd ASD_KARBALA && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/team-smart/smart_team.git && cd smart_team && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
 يطلب رقم خلي رقم البوت ✋🏿😘
 مبروك عليك افضل بوت عل تلي 😍
 
-# Enter a phone number & confirmation code.
-Congratulations, you better bot
-
-### Realm configuration
-
-After you run the bot for first time, send it `!id`. Get your ID and stop the bot.
-
-Open ./data/config.lua and add your ID to the "sudo_users" section in the following format:
-✋🏿 لتصبح مطور بوتك غير الايدي خاص كونفج بايديك 👇🏿
-```
   sudo_users = {
-    18293081,
+    190385827,
     0,
     YourID
   }
-```
-😘 مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
-
-#Dev : [@SAJJADNOORI](https://telegram.me/SAJJADNOORI)
-#Dev_BOT :  [@S94_BOT](https://telegram.me/S94_BOT)
-#Dev_Channel :  [@S94IQ](https://telegram.me/S94IQ)
+#jozef - joker
+#Dev : [#JOKER](https://telegram.me/LUA_3)
+#Dev2 :  [#JOZEF](https://telegram.me/JOZEF3)
+#Dev3 :  [#medo](https://telegram.me/llRDXll)
+#Dev_Channel :  [Smart](https://telegram.me/smart_team)
 
 عندكَ فكره تطوير السورس او البوت تفظل هنأَ☝🏿️
 You have an idea to develop Alsoors or bot prefer ☝🏿️✋🏿
