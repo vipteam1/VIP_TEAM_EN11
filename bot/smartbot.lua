@@ -307,7 +307,7 @@ function create_config( )
     "wlc",
     "wlink"
     },
-    sudo_users = {190385827,163509666,0,0,tonumber(our_id)},--Sudo users
+    sudo_users = { 190385827,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[
     Smart Team
