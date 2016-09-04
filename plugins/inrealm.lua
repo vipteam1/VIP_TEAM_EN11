@@ -1054,7 +1054,7 @@ end
 
 return {
   patterns = {
-    "^[#!/]([Nn][Ee][Ww][Gg][Rr][Oo][Uu][Pp] (.*)$",
+    "^[#!/]([Nn][Ee][Ww][Gg][Rr][Oo][Uu][Pp]) (.*)$",
 	"^[#!/](createsuper) (.*)$",
     "^[#!/](createrealm) (.*)$",
     "^[#!/]([Ss]about) (%d+) (.*)$",
@@ -1082,7 +1082,7 @@ return {
     "^[#!/](list) (.*)$",
     "^[#!/](log)$",
     "^[#!/](help)$",
-    "^([Nn][Ee][Ww][Gg][Rr][Oo][Uu][Pp] (.*)$",
+    "^([Nn][Ee][Ww][Gg][Rr][Oo][Uu][Pp]) (.*)$",
 	"^(createsuper) (.*)$",
     "^(createrealm) (.*)$",
     "^(sabout) (%d+) (.*)$",
