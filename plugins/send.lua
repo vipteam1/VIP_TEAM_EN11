@@ -12,7 +12,7 @@ end
 
 return {
   patterns = {
-  "^[!/]([Ss][Ee][Nn][Dd]) (.*)$"
+  "^[!/]([Ss][Ee][Nn][Dd]) (.*)$",
   "^([Ss][Ee][Nn][Dd]) (.*)$"
 
   },
