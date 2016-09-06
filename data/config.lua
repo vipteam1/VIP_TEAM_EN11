@@ -30,7 +30,6 @@ do local _ = {
     "anti_spam",
     "sticker",
     "owners",
-    "expire",
     "arabic_lock",
     "set",
     "get",
