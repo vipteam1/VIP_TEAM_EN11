@@ -48,7 +48,7 @@ end
 return {
   patterns = {
   "^[!#/]setbye +(.*)$",
-  "^[!#/](delbye)$"
+  "^[!#/](delbye)$",
   "^setbye +(.*)$",
   "^(delbye)$"
   },
