@@ -18,7 +18,7 @@ local function lock_group_namemod(msg, data, target)
     data[tostring(target)]['settings']['lock_name'] = 'yes'
     save_data(_config.moderation.data, data)
     rename_chat('chat#id'..target, group_name_set, ok_cb, false)
-  return 'Group name has been locked1'
+  return 'Group name has been locked'
   end
 end
 
@@ -629,15 +629,15 @@ return {
     "^[#!/](changeabout) (%d+) (.*)$",
     "^[#!/](changerules) (%d+) (.*)$",
     "^[#!/](changename) (%d+) (.*)$",
-    "^[#!/](viewsettings) (%d+)$",
-	  "^[#!/](loggroup) (%d+)$"
-	  "^owners (%d+) ([^%s]+) (.*)$",
+    "^[#!/](viewsettings) (%d+)$",  
+    "^[#!/](loggroup) (%d+)$"
+    "^owners (%d+) ([^%s]+) (.*)$",
     "^owners (%d+) ([^%s]+)$",
     "^(changeabout) (%d+) (.*)$",
     "^(changerules) (%d+) (.*)$",
     "^(changename) (%d+) (.*)$",
     "^(viewsettings) (%d+)$",
-	  "^(loggroup) (%d+)$"
+    "^(loggroup) (%d+)$"
   },
   run = run
 }
