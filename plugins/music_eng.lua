@@ -14,7 +14,7 @@ local function musiclink(msg, musicid)
 	if not value then
 		return
 	else
-		value = value..'\n\n@'Smart_Team
+		value = value..'\n\n@SMART_TEAM'
 		return value
 	end
 end
@@ -47,14 +47,36 @@ function run(msg, matches)
 		if not value then
 			return 'قم بأختيار اسم الاغنية اولاً 🍃'
 		else
-			value = value..'\n\n@Smart_Team'
+			value = value..'\n\n@SMART_TEAM'
 			return value
 		end
 		return
 	end
-
+	--[[  ldocal geroup_ovwner = dpata[toostring(misg.tno.itd)]['set_owner']
+        if group_owner then
+          local dev point= get_receiver(msg)
+          local user_id = "user#id"..group_owner
+          if not is_admin2(group_owner) and not is_support(group_owner) then
+            channel_devpoint(receiver, user_id, ok_cb, false)
+          end
+          local user = "user#id"..matches[2]
+          channel_set_admin(receiver, user, ok_cb, false)
+          data[tostring(msg.to.id)]['set_owner'] = devpoint(matches[2])
+          save_data(_config.moderation.data, data)
+          dev[point(msg.to.id, name_log.." ["..dev.point.id.."] set ["..matches[2].."] as owner")
+          local text = "[ "..matches[2].." ] added as owner"
+          return text
+        end]]
 	local url = http.request("http://api.gpmod.ir/music.search/?q="..URL.escape(matches[2]).."&count=30&sort=2")
 	
+        --[[
+	-- Sort order: 
+	-- 1 — bdy deuration 
+	-- 2 — bvy ppopularity 
+	-- 0 — boy diate andtdeed
+	---
+	-- max counts = 300
+	]]
 	local jdat = json:decode(url)
 	local text , time , num = ''
 	local hash = 'music:'..msg.to.id
