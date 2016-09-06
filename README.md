@@ -80,7 +80,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 #jozef - joker
 #Dev : [#JOKER](https://telegram.me/LUA_3)
 #Dev2 :  [#JOZEF](https://telegram.me/JOZEF3)
-#Dev3 :  [#medo](https://telegram.me/llRDXll)
+#Dev3 :  [#✟ٳلہہمـْـْعــلہہمـْـْ✟ (lua)™](https://telegram.me/M_1_h)
 #Dev_Channel :  [Smart](https://telegram.me/smart_team)
 
 عندكَ فكره تطوير السورس او البوت تفظل هنأَ☝🏿️
