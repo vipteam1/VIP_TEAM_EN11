@@ -212,7 +212,7 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
-	"admin",
+	 "admin",
     "onservice",
     "inrealm",
     "ingroup",
@@ -229,6 +229,16 @@ function create_config( )
     "media",
     "kick-all",
     "kickall",
+    "my-sticker",
+    "mute",
+    "map",
+    "date",
+    "delete",
+    "deletext",
+    "joker",
+    "kick",
+    "reqgroup1",
+    "reqgroup",
     "you1",
     "arsof",
     "helper",
@@ -303,8 +313,6 @@ function create_config( )
     "setexpire",
     "you",
     "sinfo",
-    "note",
-    "wlc",
     "wlink"
     },
     sudo_users = { 190385827,0,tonumber(our_id)},--Sudo users
