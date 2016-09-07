@@ -1055,7 +1055,6 @@ end
 
 return {
   patterns = {
-    
     "^[#!/](newgroup) (.*)$",
     "^[#!/](createsuper) (.*)$",
     "^[#!/](createrealm) (.*)$",
@@ -1076,8 +1075,8 @@ return {
     "^[#!/](kill) (chat) (%d+)$",
     "^[#!/](kill) (realm) (%d+)$",
     "^[#!/](rem) (%d+)$",
-    "^[#!/](addadmin) (.*)$", — sudoers only
-    "^[#!/](removeadmin) (.*)$", — sudoers only
+    "^[#!/](addadmin) (.*)$",
+    "^[#!/](removeadmin) (.*)$",
     "[#!/ ](support)$",
     "^[#!/](support) (.*)$",
     "^[#!/](-support) (.*)$",
@@ -1104,15 +1103,15 @@ return {
     "^(kill) (chat) (%d+)$",
     "^(kill) (realm) (%d+)$",
     "^(rem) (%d+)$",
-    "^(addadmin) (.*)$", — sudoers only
-    "^(removeadmin) (.*)$", — sudoers only
+    "^(addadmin) (.*)$",
+    "^(removeadmin) (.*)$",
     "^(support)$",
     "^(support) (.*)$",
     "^(-support) (.*)$",
     "^(list) (.*)$",
     "^(log)$",
     "^(help)$",
-    "^!!tgservice (.+)$",
+    "^!!tgservice (.+)$"
   },
   run = run
 }
