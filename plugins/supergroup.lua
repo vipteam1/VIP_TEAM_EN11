@@ -1577,7 +1577,7 @@ end
 --Run function
 local function DevPointTeam(msg, matches)
 	if msg.to.type == 'chat' then
-		if matches[1] == 'tosouper' then
+		if matches[1] == 'tosuper' then
 			if not is_admin1(msg) then
 				return
 			end
@@ -1589,7 +1589,7 @@ local function DevPointTeam(msg, matches)
 			if not is_admin1(msg) then
 				return
 			end
-			return "Already a SuperGroup"
+			return " المجموعه سوبر الان"
 		end
 	end
 	if msg.to.type == 'channel' then
@@ -2744,8 +2744,8 @@ return {
 	"^([Kk]ick) (.*)",
 	"^[#!/]([Kk]ick)",
 	"^([Kk]ick)",
-	"^[#!/]([Tt]osouper)$",
-	"^([Tt]osouper)$",
+	"^[#!/]([Tt]osuper)$",
+	"^([Tt]osuper)$",
 	"^[#!/]([Ii][Dd])$",
 	"^([Ii][Dd])$",
 	"^[#!/]([Ii][Dd]) (.*)$",
