@@ -1077,7 +1077,7 @@ return {
     "^[#!/](rem) (%d+)$",
     "^[#!/](addadmin) (.*)$",
     "^[#!/](removeadmin) (.*)$",
-    "[#!/ ](support)$",
+    "^[#!/ ](support)$",
     "^[#!/](support) (.*)$",
     "^[#!/](-support) (.*)$",
     "^[#!/](list) (.*)$",
