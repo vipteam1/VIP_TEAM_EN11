@@ -87,7 +87,6 @@ do local _ = {
     "re",
     "rm",
     "rplay",
-    "you",
     "sinfo",
     "wlink"
   },
