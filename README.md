@@ -1,4 +1,4 @@
-# VIP_TEAM_EN1
+# VIP_TEAM_EN11
 
  الانكليزي VIP_TEAM_EN طريقه تنصيب سورس
 *******************************************************************
@@ -20,11 +20,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ************************************************************
 ورأهأَ خلي👇🏿
 **************
-git clone https://github.com/team-smart/smart_team.git
+git clone https://github.com/vipteam1/VIP_TEAM_EN11.git
 *****************************************************
 ورهأ خلي 👇🏿
 **************************
-cd smart_team
+cd VIP_TEAM_EN11
 **************************
 ورهأَ خلي👇🏿 
 **************************
@@ -62,23 +62,11 @@ redis-server
 تركه مفتوح✋🏿 
 وفتح ترمنال ثاني وخلي 👇🏿 
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/team-smart/smart_team.git && cd smart_team && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/vipteam1/VIP_TEAM_EN11.git && cd VIP_TEAM_EN11 && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
 يطلب رقم خلي رقم البوت ✋🏿😘
 مبروك عليك افضل بوت عل تلي 😍
 
-  sudo_users = {
-    190385827,
-    0,
-    YourID
-  }
-#jozef - joker
-#Dev : [#JOKER](https://telegram.me/LUA_3)
-#Dev2 :  [#JOZEF](https://telegram.me/JOZEF3)
-#Dev3 :  [#✟ٳلہہمـْـْعــلہہمـْـْ✟ (lua)™](https://telegram.me/M_1_h)
-#Dev_Channel :  [Smart](https://telegram.me/smart_team)
-
-عندكَ فكره تطوير السورس او البوت تفظل هنأَ☝🏿️
-You have an idea to develop Alsoors or bot prefer ☝🏿️✋🏿
+  �
